@@ -46,4 +46,4 @@ Thanks to the PyQt5 and PyQtWebEngine communities for providing the necessary to
 Contact
 For any questions or concerns, feel free to reach out:
 
-Email: jakhete.rushikesh@gmail.com
+Email: jakhete.rushikesh@gmail.com & piyushhingu1998@gmail.com
